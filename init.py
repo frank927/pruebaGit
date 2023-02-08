@@ -26,3 +26,5 @@ for d in noticias:
      data.append(d.text)
      
 print(data)
+
+print (len(data))
