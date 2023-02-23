@@ -1,2 +1,2 @@
-# pruebaGit
+# pruebaGit-poetry
 Control de versiones
